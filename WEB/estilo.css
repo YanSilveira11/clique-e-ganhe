@@ -1,0 +1,22 @@
+p {
+				background-color: blue;
+				color: white;
+			}
+
+b {
+        color: black;
+        font-family:verdana;
+        font-size: 100%;
+        background-color: yellow;
+        width: auto;
+        text-align:center;
+        }
+a {
+        color: black;
+        font-family:verdana;
+        font-size: 70%;  
+        width: auto;
+        text-align:center;
+        }        
+       
+
